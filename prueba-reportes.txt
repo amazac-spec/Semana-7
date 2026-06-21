@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes almacenados en el array reportes. Cada reporte contiene un id, un tipo y una descripción. Los datos permanecen disponibles mientras el servidor está en ejecución.
